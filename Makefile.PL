@@ -5,7 +5,7 @@ WriteMakefile(
     'NAME'		=> 'Class::Methods',
     'VERSION_FROM'	=> 'lib/Class/Methods.pm', # finds $VERSION
     'PREREQ_PM'		=> {
-        'warnings'          => undef,
-        'Devel::Pointer'    => undef,
+        'warnings'          => 0,
+        'Devel::Pointer'    => 0,
     },
 );

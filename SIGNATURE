@@ -15,13 +15,13 @@ not run its Makefile.PL or Build.PL.
 Hash: SHA1
 
 SHA1 987e5fa6c3d070d368b22fe378d9c7b1e0f7ee34 MANIFEST
-SHA1 c45fca33f324c78e9a0280baf28c5000ffca62a2 Makefile.PL
-SHA1 e3905d0182e3e665ffd41d117a5e201a61ea0e22 lib/Class/Methods.pm
+SHA1 43304380388532bc08e2fdf74c6795805cc72124 Makefile.PL
+SHA1 cdef8c3bcc8dc48146354bf57ef6419e950ea087 lib/Class/Methods.pm
 SHA1 2b72c05401a1bb11582a27be2945cb87efee3059 test.pl
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v1.2.1 (Darwin)
 
-iD8DBQE+hwSkCV/r5CcpuVoRAhiYAJ96f65CYvu6vtZzq5mFsQTdacmOtwCbBe3W
-rPcA3IrF5bxd63vKsrofEpk=
-=qJL3
+iD8DBQE+h6WhCV/r5CcpuVoRAsr8AKCROmvHTozxXAAbVYSS7xcM70RkYwCeOPLe
+YtISVMhkJRxAu+1MNUILkEc=
+=Zfdx
 -----END PGP SIGNATURE-----

@@ -26,7 +26,7 @@ our @EXPORT_OK = ( @{ $EXPORT_TAGS{'all'} } );
 our @EXPORT = qw(
 	
 );
-our $VERSION = '0.061';
+our $VERSION = '0.062';
 
 # class: returns this object's class.
 sub class ($) {
